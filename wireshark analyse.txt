@@ -1,0 +1,10 @@
+Q1 : 
+10.0.0.167 and 10.0.0.149 are the two windows clients,
+for 10.0.0.149 in the screenshot 1 the user-agent is microsoft NCSI and in the screenshot 2 we see that the cname is alyssa.fitzgerald that's the user accounte name 
+for 10.0.0.167 in the screenshot 3 the user-agent Windows NT, Win64 and in the screenshot 4 we see that the cname is elmer.obrien that' the user name account name
+
+Q2 :
+in the screenshot 5 we see that 10.0.0.149 and 10.0.0.167 have a hight traffic percentage so one of those is infected. to know who exactly infected we saw the screenshot of traffic analysis alert and find out that 10.0.0.149 use unsafe SMBv1 protocol also he gain the access to 10.0.0.167 so we find the infected one it's 10.0.0.167 
+
+Q3 : 
+Qakbot Trojan 
